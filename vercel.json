@@ -10,15 +10,5 @@
       "src": "/(.*)",
       "dest": "main.py"
     }
-  ],
-  "excludeFiles": [
-    "**/*.pyc",
-    "**/__pycache__/**",
-    ".env",
-    ".git/**",
-    ".venv/**",
-    "automations/**",
-    "datasets/raw_dataset.csv",
-    "package.json"
   ]
 }
